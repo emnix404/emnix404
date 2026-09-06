@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**emnix404/emnix404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/emina-musić-675086238?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/emnix404">
+  <img align="left" alt="Emina's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<img align="right" alt="GIF"
+     src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif"
+     width="270"/>
+     
+### About me
+Electrical Engineer and Virtual Commissioning Consultant with 3+ years of experience
+developing and testing software-driven automation systems. Strong foundation in pro-
+gramming, debugging, system integration, and problem solving, gained through indus-
+trial automation and robotics projects. Currently transitioning into software develop-
+ment, with a strong interest in building robust, maintainable software and expanding
+expertise in modern development practices and technologie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Emina Musić](https://github.com/emnix404)
+
